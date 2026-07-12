@@ -1,0 +1,2 @@
+Standard library only - no dependencies required 
+install python and you are good 
